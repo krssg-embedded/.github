@@ -1,12 +1,12 @@
 # Kharagpur Robosoccer Student's Group 🤖
 
-A students' group in IIT Kharagpur working on building autonomous bots for playing soccer. 
-Participate in international events-F.I.R.A. World Championship, RoboCup soccer. 
+A students' group in IIT Kharagpur working on building autonomous bots for playing soccer and also 
+participating in international events such as RoboCup soccer. 
 Comprising of a bunch of ardent robotics technocrats from the Indian Institute of Technology, Kharagpur working together to build autonomous soccer-playing robots, 
-the Kharagpur Robosoccer Students' Group (KRSSG) marked its inception in August 2009 with participation in RoboCup @ India Challenge in the campusthis event was the
+the Kharagpur Robosoccer Students' Group (KRSSG) marked its inception in August 2009 with participation in RoboCup @ India Challenge on the campus. This event was the
 first of its kind in South East Asia and with this India joined the elite body of only 18 nations worldwide to have a league of their own. 
 Since then it has always striven to breach its own limits. Buoyed by the developments in this field, it had been transformed into a research project under the 
-collective guidance of professors from the departments of Computer Science and Engineering, Electrical Engineering and Mechanical Engineering . 
+collective guidance of professors from the departments of Computer Science and Engineering, Electrical Engineering and Mechanical Engineering. 
 The research objective of the group is to build and study cooperative multi-agent systems in highly dynamic adversarial environments.
 
 [1]: https://github.com/krssg-embedded
