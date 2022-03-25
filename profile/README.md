@@ -10,7 +10,7 @@ collective guidance of professors from the departments of Computer Science and E
 The research objective of the group is to build and study cooperative multi-agent systems in highly dynamic adversarial environments.
 
 [1]: https://github.com/krssg-embedded
-[2]: https://www.facebook.com/krssghttps://www.linkedin.com/company/kharagpur-robosoccer-students-group/mycompany/
+[2]: https://www.facebook.com/krssg
 [3]: https://www.linkedin.com/company/kharagpur-robosoccer-students-group/mycompany/
 
 ---
