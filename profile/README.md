@@ -9,9 +9,9 @@ Since then it has always striven to breach its own limits. Buoyed by the develop
 collective guidance of professors from the departments of Computer Science and Engineering, Electrical Engineering and Mechanical Engineering. 
 The research objective of the group is to build and study cooperative multi-agent systems in highly dynamic adversarial environments.
 
-[1]: https://github.com/krssg-embedded
-[2]: https://www.facebook.com/krssg
-[3]: https://www.linkedin.com/company/kharagpur-robosoccer-students-group/mycompany/
+[1]: https://github.com/krssg-embedded{:target="_blank"}{:target="_blank"}
+[2]: https://www.facebook.com/krssg{:target="_blank"}
+[3]: https://www.linkedin.com/company/kharagpur-robosoccer-students-group/mycompany/{:target="_blank"}
 
 ---
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
